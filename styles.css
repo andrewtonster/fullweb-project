@@ -76,6 +76,7 @@ ul {
   display: flex;
 
   background-color: white;
+  height: 300px;
 }
 
 .info {
@@ -102,6 +103,8 @@ ul {
   justify-content: center;
   gap: 125px;
   margin-left: 30px;
+  background-color: white;
+  margin-left: 0;
 }
 
 .body_text p {
@@ -110,4 +113,5 @@ ul {
 
 .body_text div {
   width: 100px;
+  color: grey;
 }
