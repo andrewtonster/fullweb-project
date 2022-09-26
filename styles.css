@@ -100,9 +100,14 @@ ul {
 .body_text {
   display: flex;
   justify-content: center;
-  gap: 210px;
+  gap: 125px;
+  margin-left: 30px;
 }
 
 .body_text p {
   flex: 1;
+}
+
+.body_text div {
+  width: 100px;
 }
