@@ -114,15 +114,20 @@ ul {
 
 .body_three {
   display: flex;
-  width: 500px;
-  margin-left: 33%;
+  background-color: grey;
+  justify-content: center;
 }
 .body_three div {
-  flex: 1;
-  width: 100px;
+  width: 400px;
   font-size: 20px;
 }
 
 .author {
-  margin-left: 60%;
+  display: flex;
+  background-color: grey;
+  justify-content: center;
+}
+
+.author div {
+  margin-left: 400px;
 }
