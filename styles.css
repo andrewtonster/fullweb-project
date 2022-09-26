@@ -107,11 +107,22 @@ ul {
   margin-left: 0;
 }
 
-.body_text p {
-  flex: 1;
-}
-
 .body_text div {
   width: 100px;
   color: grey;
+}
+
+.body_three {
+  display: flex;
+  width: 500px;
+  margin-left: 33%;
+}
+.body_three div {
+  flex: 1;
+  width: 100px;
+  font-size: 20px;
+}
+
+.author {
+  margin-left: 60%;
 }
